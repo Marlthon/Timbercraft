@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.46f1
+CRC: 1169840775
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mar_timbercraft
+      Dependencies:
+        Dependency_0: mar_timbercraft_core
+    Info_1:
+      Name: mar_timbercraft_core
+      Dependencies: {}

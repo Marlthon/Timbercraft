@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.46f1
+CRC: 466531717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 479a41ed542e5a3af97b26446d60e3d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd2a5f5d8f317fb05ee589e54db1e127
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6711dee0638690a29093dceb1b8ab6a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 313648218, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1521249158, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 469224316, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_chest_open_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_Place_construction.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_build_hammer_stone_construction.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_Place_stone_floor_2x2_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_SawDust_construction.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_Place_workbench_construction.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_RockHit_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_build_hammer_wood_construction.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_wood_destroyed_construction.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_rock_destroyed_construction.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_stone_floor_destroyed_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_stone_floor_2x2_destroyed_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_build_hammer_metal_Constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_Place_stone_floor_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_Place_Lustres_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_metal_blocked_Constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_HitSparks_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_Place_wood_pole_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsSFX/sfx_chest_close_constructions.prefab
+- Assets/Bagual/TimberCraft/Effects/EffectsVFX/vfx_Place_wood_wall_construction.prefab
+Dependencies: []

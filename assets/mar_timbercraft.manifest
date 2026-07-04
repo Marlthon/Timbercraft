@@ -1,0 +1,260 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.46f1
+CRC: 2793956780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a80511e9a87075551ebca27fa83826c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ca2dd8b6695ac6902edf3124c86a4f2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2c594485d450173e64f0b572ae3447bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 206cf3113334e664a85ac1cb78d226a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6280b3a9c40ac9d4a9972bb5865c0c02, type: 3}
+- Class: 114
+  Script: {fileID: 2140874873, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1404409730, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1987483406, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 971010301, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 313648218, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 825357479, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -946862589, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1521249158, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1109157524, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 465962848, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1533304312, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: -1787775113, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1790797106, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1107262255, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 130663047, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 2053127972, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 2094620348, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 469224316, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 895252998, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: Attack
+- AssemblyName: assembly_valheim
+  ClassName: DropTable
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+- AssemblyName: assembly_valheim
+  ClassName: EffectList/EffectData
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageModifiers
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageTypes
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData
+- AssemblyName: assembly_valheim
+  ClassName: ItemDrop/ItemData/SharedData
+- AssemblyName: assembly_valheim
+  ClassName: Piece/Requirement
+Assets:
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_Chandelier_02.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Table_01.prefab
+- Assets/Bagual/TimberCraft/Props/Chests/MH_MedievalPrivateChest.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/Canopy_06.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_A8_A_House.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/Dummy_village.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_A5_A_House.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_A4_A_House.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/Sign_Blacksmith_Village.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Bar_02.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Wardrobe_02.prefab
+- Assets/Bagual/TimberCraft/VillageHammer/TimberHammerPieceTable.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Wall_Shelf_01.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_E3_A_3Story_House.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_A7_A_House.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Table_03.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/Sign_Tavern_Village.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/BannerPole4.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/BannerPole2.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/WheelPostPole.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B1_House.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Stool_01.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Wardrobe_03.prefab
+- Assets/Bagual/TimberCraft/Props/Chests/MH_MedievalChest_01.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B4_House.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Table_02.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B5_House.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C2_B1_Apartment.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_CandleHolder_02.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/Canopy_03.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_MeadRack_01.prefab
+- Assets/Bagual/TimberCraft/Props/Blacksmith/MH_blacksmith_anvil.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_E2_A_3Story_House.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C4_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Bar_03.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_F1_A_4Story_Inn.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_Candle.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/Canopy_05.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Wall_Shelf_03.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B3_A_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_WineRack_01.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/Sign_Alchemy_Village.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D1_A_2Story_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/Sign_Goods_Village.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Chair_01.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_CupBoard_03.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_E6_A_3Story_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_CandleHolder_06.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D3_A_2Story_House.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D4_A_2Story_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_Chandelier_01.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/BannerPole1.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Table_04.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C3_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Wall_Shelf_04.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C1_A1_Apartment.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/BannerPole3.prefab
+- Assets/Bagual/TimberCraft/Props/Blacksmith/MH_Blacksmith_Tools_Rack.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B3_House.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D6_Apartment.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_CandleHolder_04.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B1_A_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/StreetLampPole.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Wall_Shelf_02.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B2_House.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Table_01.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/Sign_Magic_Village.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D2_A_2Story_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_CandleHolder_01.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Table_05.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D2_Apartment.prefab
+- Assets/Bagual/TimberCraft/Props/MH_SingleBed_01.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_CandleHolder_05.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_A6_A_House.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/Canopy_04.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/IronFirePit_Village.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C1_Shop.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_G5_A_WaterWell.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Wardrobe_01.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_BookShelf_01.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/Canopy_02.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_G2_A_Gazebo.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D8_Apartment.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_B2_A_Shop.prefab
+- Assets/Bagual/TimberCraft/Casas/F3_B_4Story_Inn.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_E1_A_3Story_House.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_CandleHolder_03.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Table_05.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D7_Apartment.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_A2_C_Hut.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_A3_Hut.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C1_B1_Apartment.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D3_Apartment.prefab
+- Assets/Bagual/TimberCraft/Props/Candle_holders/MH_Chandelier_03.prefab
+- Assets/Bagual/TimberCraft/Props/MH_DoubleBed_01.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_CupBoard_02.prefab
+- Assets/Bagual/TimberCraft/Portas/sfx_door_close_contructions.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_D4_Apartment.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Table_04.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Table_03.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/Sign_Inn_Village.prefab
+- Assets/Bagual/TimberCraft/Props/OutdoorDeco/Canopy_01.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C2_A1_Apartment.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Table_06.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_C2_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Table_06.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_Outhouse.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Table_07.prefab
+- Assets/Bagual/TimberCraft/Effects/timberghost.mat
+- Assets/Bagual/TimberCraft/Casas/MH_B4_A_Shop.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_CupBoard_01.prefab
+- Assets/Bagual/TimberCraft/Portas/ME_TimbercraftDoor.prefab
+- Assets/Bagual/TimberCraft/VillageHammer/TimberHammer.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_DECO_Table_02.prefab
+- Assets/Bagual/TimberCraft/Props/Chests/MH_MedievalChest_02.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Wall_Shelf_01.prefab
+- Assets/Bagual/TimberCraft/Props/Banner e placas/BannerPole5.prefab
+- Assets/Bagual/TimberCraft/Props/Blacksmith/MH_Blacksmith_Grinding_Stone.prefab
+- Assets/Bagual/TimberCraft/Props/IndoorDeco/MH_Bar_01.prefab
+- Assets/Bagual/TimberCraft/Portas/sfx_door_open_contructions.prefab
+- Assets/Bagual/TimberCraft/Casas/MH_Stage_mdl.prefab
+Dependencies:
+- F:/Visual Studio Projects/MODS PAGOS/Timbercraft/assets/mar_timbercraft_core
